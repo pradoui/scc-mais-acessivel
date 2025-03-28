@@ -1,2 +1,7 @@
-# scc-mais-acessivel
-Santa Cruz + Acessível Application for mobile devices is a blog app for acessibility.
+# SCC Mais Acessivel
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
