@@ -1,0 +1,661 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="band" tvg-name="Band" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="TV Aberta",Band
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/index.m3u8
+#EXTINF:-1 tvg-id="band-campinas" tvg-name="Band Campinas" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="TV Aberta",Band Campinas
+http://64.31.23.207:80/59471019/60849037/324352.m3u8
+#EXTINF:-1 tvg-id="band-curitiba" tvg-name="Band Curitiba" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="TV Aberta",Band Curitiba
+http://64.31.23.207:80/59471019/60849037/324354.m3u8
+#EXTINF:-1 tvg-id="band-mg" tvg-name="Band MG" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="TV Aberta",Band MG
+http://64.31.23.207:80/59471019/60849037/324359.m3u8
+#EXTINF:-1 tvg-id="band-para" tvg-name="Band Pará" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="TV Aberta",Band Pará
+http://64.31.23.207:80/59471019/60849037/324362.m3u8
+#EXTINF:-1 tvg-id="band-recife-tv-tribuna" tvg-name="Band Recife TV Tribuna" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="TV Aberta",Band Recife TV Tribuna
+http://64.31.23.207:80/59471019/60849037/324364.m3u8
+#EXTINF:-1 tvg-id="band-rj" tvg-name="Band RJ" tvg-logo="https://img.faz-o-eli.online/band.png" group-title="TV Aberta",Band RJ
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/bandrj.txt
+#EXTINF:-1 tvg-id="band-rn" tvg-name="Band RN" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="TV Aberta",Band RN
+http://64.31.23.207:80/59471019/60849037/324367.m3u8
+#EXTINF:-1 tvg-id="band-rs" tvg-name="Band RS" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="TV Aberta",Band RS
+http://64.31.23.207:80/59471019/60849037/324368.m3u8
+#EXTINF:-1 tvg-id="band-sergipe" tvg-name="Band Sergipe" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="TV Aberta",Band Sergipe
+http://64.31.23.207:80/59471019/60849037/324370.m3u8
+#EXTINF:-1 tvg-id="band-sp" tvg-name="Band SP" tvg-logo="https://img.faz-o-eli.online/band.png" group-title="TV Aberta",Band SP
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/bandsp.txt
+#EXTINF:-1 tvg-id="canal-educacao" tvg-name="Canal Educacao" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="TV Aberta",Canal Educacao
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="canal-futura" tvg-name="Canal Futura" tvg-logo="https://i.imgur.com/LgynEBC.png" group-title="TV Aberta",Canal Futura
+http://45.162.64.114/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="canal-gov" tvg-name="Canal Gov" tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="TV Aberta",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="cancao-nova" tvg-name="Canção Nova" tvg-logo="https://img.faz-o-eli.online/cancaonova.png" group-title="TV Aberta",Canção Nova
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/cancaonova.txt
+#EXTINF:-1 tvg-id="cnt" tvg-name="CNT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-cnt-br.png" group-title="TV Aberta",CNT
+http://45.162.64.114/CNT/index.m3u8
+#EXTINF:-1 tvg-id="cultura-fast" tvg-name="Cultura Fast" group-title="TV Aberta",Cultura Fast
+https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
+#EXTINF:-1 tvg-id="futura" tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png" group-title="TV Aberta",Futura
+http://168.197.104.22/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="globo-am" tvg-name="Globo AM" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta",Globo AM
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globoam.txt
+#EXTINF:-1 tvg-id="globo-bahia" tvg-name="Globo Bahia" tvg-logo="https://img.faz-o-eli.online/globo.png" group-title="TV Aberta",Globo Bahia
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-id="globo-ce" tvg-name="Globo CE" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta",Globo CE
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globoce.txt
+#EXTINF:-1 tvg-id="globo-df" tvg-name="Globo DF" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta",Globo DF
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globodf.txt
+#EXTINF:-1 tvg-id="globo-es" tvg-name="Globo ES" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta",Globo ES
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globoes.txt
+#EXTINF:-1 tvg-id="globo-go" tvg-name="Globo GO" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta",Globo GO
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globogo.txt
+#EXTINF:-1 tvg-id="globo-mg" tvg-name="Globo MG" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta",Globo MG
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globomg.txt
+#EXTINF:-1 tvg-id="globo-pb" tvg-name="Globo PB" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta",Globo PB
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globopb.txt
+#EXTINF:-1 tvg-id="globo-pe" tvg-name="Globo PE" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta",Globo PE
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globope.txt
+#EXTINF:-1 tvg-id="globo-rj" tvg-name="Globo RJ" tvg-logo="https://img.faz-o-eli.online/globorj.png" group-title="TV Aberta",Globo RJ
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globorj.txt
+#EXTINF:-1 tvg-id="globo-rs" tvg-name="Globo RS" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta",Globo RS
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globors.txt
+#EXTINF:-1 tvg-id="globo-sp" tvg-name="Globo SP" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta",Globo SP
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globosp.txt
+#EXTINF:-1 tvg-id="playtv" tvg-name="PlayTV" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="TV Aberta",PlayTV
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+#EXTINF:-1 tvg-id="record" tvg-name="Record" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="TV Aberta",Record
+https://dadinhodetapioca.fun/play/record.html
+#EXTINF:-1 tvg-id="record-go" tvg-name="Record GO" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta",Record GO
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/recordgo.txt
+#EXTINF:-1 tvg-id="record-mg" tvg-name="Record MG" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta",Record MG
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/recordmg.txt
+#EXTINF:-1 tvg-id="record-rj" tvg-name="Record RJ" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta",Record RJ
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/recordrj.txt
+#EXTINF:-1 tvg-id="record-sp" tvg-name="Record SP" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta",Record SP
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/recordsp.txt
+#EXTINF:-1 tvg-id="rede-brasil" tvg-name="Rede Brasil" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="TV Aberta",Rede Brasil
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="rede-tv" tvg-name="Rede TV!" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="TV Aberta",Rede TV!
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-vida" tvg-name="Rede Vida" tvg-logo="https://img.faz-o-eli.online/redevida.png" group-title="TV Aberta",Rede Vida
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/redevida.txt
+#EXTINF:-1 tvg-id="redetv" tvg-name="RedeTV!" tvg-logo="https://www.tvlogo.org/brazil/rede-tv-br.png" group-title="TV Aberta",RedeTV!
+https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1074634538.m3u8
+#EXTINF:-1 tvg-id="sbt" tvg-name="SBT" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="TV Aberta",SBT
+https://aovivo.maissbt.com/indexMobile.m3u8
+#EXTINF:-1 tvg-id="sbt-alterosa" tvg-name="SBT Alterosa" tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="TV Aberta",SBT Alterosa
+http://64.31.23.207:80/59471019/60849037/324287.m3u8
+#EXTINF:-1 tvg-id="sbt-ba" tvg-name="SBT BA" tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="TV Aberta",SBT BA
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1 tvg-id="sbt-go" tvg-name="SBT GO" tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="TV Aberta",SBT GO
+http://64.31.23.207:80/59471019/60849037/324291.m3u8
+#EXTINF:-1 tvg-id="sbt-londrina" tvg-name="SBT Londrina" tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="TV Aberta",SBT Londrina
+http://64.31.23.207:80/59471019/60849037/324312.m3u8
+#EXTINF:-1 tvg-id="sbt-maringa" tvg-name="SBT Maringá" tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="TV Aberta",SBT Maringá
+http://64.31.23.207:80/59471019/60849037/324311.m3u8
+#EXTINF:-1 tvg-id="sbt-mg" tvg-name="SBT MG" tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="TV Aberta",SBT MG
+http://64.31.23.207:80/59471019/60849037/324296.m3u8
+#EXTINF:-1 tvg-id="sbt-pi" tvg-name="SBT PI" tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="TV Aberta",SBT PI
+http://64.31.23.207:80/59471019/60849037/324309.m3u8
+#EXTINF:-1 tvg-id="sbt-pr" tvg-name="SBT PR" tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="TV Aberta",SBT PR
+http://64.31.23.207:80/59471019/60849037/324301.m3u8
+#EXTINF:-1 tvg-id="sbt-rj" tvg-name="SBT RJ" tvg-logo="https://img.faz-o-eli.online/sbt.png" group-title="TV Aberta",SBT RJ
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sbtrj.txt
+#EXTINF:-1 tvg-id="sbt-sp" tvg-name="SBT SP" tvg-logo="https://img.faz-o-eli.online/sbt.png" group-title="TV Aberta",SBT SP
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sbtsp.txt
+#EXTINF:-1 tvg-id="sesc-tv" tvg-name="SESC TV" tvg-logo="https://i.imgur.com/Mu8O6CV.png" group-title="TV Aberta",SESC TV
+http://45.162.64.114/SESC_TV/index.m3u8
+#EXTINF:-1 tvg-id="tv-a-critica" tvg-name="TV A Crítica" group-title="TV Aberta",TV A Crítica
+https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-aparecida" tvg-name="TV Aparecida" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-aparecida.png" group-title="TV Aberta",TV Aparecida
+https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-brasil" tvg-name="TV Brasil" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-brasil.png" group-title="TV Aberta",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="tv-camara" tvg-name="TV Câmara" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-camara-br.png" group-title="TV Aberta",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="tv-cultura" tvg-name="TV Cultura" tvg-logo="https://img.faz-o-eli.online/cultura.png" group-title="TV Aberta",TV Cultura
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/cultura.txt
+#EXTINF:-1 tvg-id="tv-gazeta" tvg-name="TV Gazeta" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-gazeta.png" group-title="TV Aberta",TV Gazeta
+https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w930922724.m3u8
+#EXTINF:-1 tvg-id="tv-goiania" tvg-name="Tv Goiania" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="TV Aberta",Tv Goiania
+http://64.31.23.207:80/59471019/60849037/324373.m3u8
+#EXTINF:-1 tvg-id="tv-justica" tvg-name="TV Justiça" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-justica.png" group-title="TV Aberta",TV Justiça
+http://45.162.64.114/TV_JUSTICA/index.m3u8
+#EXTINF:-1 tvg-id="tv-senado" tvg-name="TV Senado" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-senado-br.png" group-title="TV Aberta",TV Senado
+http://45.162.64.114/TV_SENADO/index.m3u8
+#EXTINF:-1 tvg-id="tve-bahia" tvg-name="TVE Bahia" tvg-logo="http://i.imgur.com/IWGyp65.jpeg" group-title="TV Aberta",TVE Bahia
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://img.faz-o-eli.online/amc.png" group-title="Filmes",AMC
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/fbdd28d168262afd95a3e674aa6700e1/error.txt
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://img.faz-o-eli.online/axn.png" group-title="Filmes",AXN
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/afed9182d8e5792e73bbafd7e104ca96/error.txt
+#EXTINF:-1 tvg-id="canal-brasil" tvg-name="Canal Brasil" tvg-logo="https://img.faz-o-eli.online/canalbrasil.png" group-title="Filmes",Canal Brasil
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/103518.m3u8
+#EXTINF:-1 tvg-id="cine-sky-01" tvg-name="Cine SKY 01" tvg-logo="http://www.fontedecanais.dev/logos/canais/cinesky.png" group-title="Filmes",Cine SKY 01
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13071.m3u8
+#EXTINF:-1 tvg-id="cine-sky-02" tvg-name="Cine SKY 02" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Filmes",Cine SKY 02
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13072.m3u8
+#EXTINF:-1 tvg-id="cine-sky-03" tvg-name="Cine SKY 03" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Filmes",Cine SKY 03
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13073.m3u8
+#EXTINF:-1 tvg-id="cine-sky-05" tvg-name="Cine SKY 05" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Filmes",Cine SKY 05
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13075.m3u8
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://img.faz-o-eli.online/cinemax.png" group-title="Filmes",Cinemax
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/f707521cd7789b18fa9e79677d8e5644/error.txt
+#EXTINF:-1 tvg-id="classique-faroeste" tvg-name="Classique Faroeste" group-title="Filmes",Classique Faroeste
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="film-arts" tvg-name="Film&Arts" tvg-logo="https://img.faz-o-eli.online/filmarts.png" group-title="Filmes",Film&Arts
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/104914.m3u8
+#EXTINF:-1 tvg-id="globoplay-novelas" tvg-name="Globoplay Novelas" tvg-logo="https://img.faz-o-eli.online/globonovelas.prev.png" group-title="Filmes",Globoplay Novelas
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globonovelas.txt
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://img.faz-o-eli.online/hbo.png" group-title="Filmes",HBO
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/b745e794fb790ffb524d36d324af64d9/error.txt
+#EXTINF:-1 tvg-id="hbo-family" tvg-name="HBO Family" tvg-logo="https://img.faz-o-eli.online/hbofamily.png" group-title="Filmes",HBO Family
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/f0682431a0bbc39f83ecabc69ec55cb4/error.txt
+#EXTINF:-1 tvg-id="hbo-mundi" tvg-name="HBO Mundi" tvg-logo="https://img.faz-o-eli.online/hbomundi.png" group-title="Filmes",HBO Mundi
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/ee1ce9bdb36688f00f0d1efa116ca81e/error.txt
+#EXTINF:-1 tvg-id="hbo-plus" tvg-name="HBO Plus" tvg-logo="https://img.faz-o-eli.online/hboplus.png" group-title="Filmes",HBO Plus
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/67a04a692491d658166c746b3a91d147/error.txt
+#EXTINF:-1 tvg-id="hbo-pop" tvg-name="HBO Pop" tvg-logo="https://img.faz-o-eli.online/hbopop.png" group-title="Filmes",HBO Pop
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/2c8e3870d708ccea73d100c302d03b30/error.txt
+#EXTINF:-1 tvg-id="hbo-signature" tvg-name="HBO Signature" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-signature.png" group-title="Filmes",HBO Signature
+https://dadinhodetapioca.fun/play/hbosignature.html
+#EXTINF:-1 tvg-id="hbo-xtreme" tvg-name="HBO Xtreme" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-xtreme.png" group-title="Filmes",HBO Xtreme
+https://dadinhodetapioca.fun/play/hboxtreme.html
+#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO2" tvg-logo="https://img.faz-o-eli.online/hbo2.png" group-title="Filmes",HBO2
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/97fb2d060dd972f81241b86b2e60cc94/error.txt
+#EXTINF:-1 tvg-id="lifetime" tvg-name="Lifetime" tvg-logo="http://www.fontedecanais.me/logos/canais/lifetime.png" group-title="Filmes",Lifetime
+http://64.31.23.207:80/59471019/60849037/518571.m3u8
+#EXTINF:-1 tvg-id="max-01" tvg-name="MAX 01" tvg-logo="http://www.fontedecanais.gs/logos/canais/max.png" group-title="Filmes",MAX 01
+http://64.31.23.207:80/59471019/60849037/3460233.m3u8
+#EXTINF:-1 tvg-id="max-02" tvg-name="MAX 02" tvg-logo="http://www.fontedecanais.gs/logos/canais/max.png" group-title="Filmes",MAX 02
+http://64.31.23.207:80/59471019/60849037/3460234.m3u8
+#EXTINF:-1 tvg-id="max-03" tvg-name="MAX 03" tvg-logo="https://img.faz-o-eli.online/max.png" group-title="Filmes",MAX 03
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/max3.txt
+#EXTINF:-1 tvg-id="megapix" tvg-name="Megapix" tvg-logo="https://img.faz-o-eli.online/megapix.png" group-title="Filmes",Megapix
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/4070a22eb057b33dc3a623a0bdd71bdc/error.txt
+#EXTINF:-1 tvg-id="moviesphere-brazil" tvg-name="MovieSphere Brazil" group-title="Filmes",MovieSphere Brazil
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="mytime-movie-network" tvg-name="MyTime Movie Network" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="Filmes",MyTime Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="paramount-channel" tvg-name="Paramount Channel" tvg-logo="https://mondrian.claro.com.br/channels/inverse/paramount-network.png" group-title="Filmes",Paramount Channel
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/72217.m3u8
+#EXTINF:-1 tvg-id="runtime" tvg-name="Runtime" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="Filmes",Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 tvg-id="runtime-acao" tvg-name="Runtime Ação" group-title="Filmes",Runtime Ação
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+#EXTINF:-1 tvg-id="sony-channel" tvg-name="Sony Channel" tvg-logo="https://img.faz-o-eli.online/sonychannel.png" group-title="Filmes",Sony Channel
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sonychannel.txt
+#EXTINF:-1 tvg-id="sony-movies" tvg-name="SONY Movies" tvg-logo="https://www.tvlogo.org/brazil/sony-movies-br.png" group-title="Filmes",SONY Movies
+http://45.162.64.114/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="sony-one-classics" tvg-name="Sony One Classics" group-title="Filmes",Sony One Classics
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="space" tvg-name="Space" tvg-logo="https://img.faz-o-eli.online/space.png" group-title="Filmes",Space
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/763db18447d4eebd768a23d723a53314/error.txt
+#EXTINF:-1 tvg-id="star-channel" tvg-name="Star Channel" tvg-logo="https://img.faz-o-eli.online/starchannel.png" group-title="Filmes",Star Channel
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/starchannel.txt
+#EXTINF:-1 tvg-id="studio-universal" tvg-name="Studio Universal" tvg-logo="https://img.faz-o-eli.online/studiouniversal.png" group-title="Filmes",Studio Universal
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/studiouniversal.txt
+#EXTINF:-1 tvg-id="tcm" tvg-name="TCM" tvg-logo="https://img.faz-o-eli.online/tcm.png" group-title="Filmes",TCM
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tcm.txt
+#EXTINF:-1 tvg-id="telecine-action" tvg-name="Telecine Action" tvg-logo="https://img.faz-o-eli.online/telecineaction.png" group-title="Filmes",Telecine Action
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/843a09c4e54c060aa61cb944a3b25879/error.txt
+#EXTINF:-1 tvg-id="telecine-cult" tvg-name="Telecine Cult" tvg-logo="https://img.faz-o-eli.online/telecinecult.png" group-title="Filmes",Telecine Cult
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/09257fb4bf50ae2c2309abbb8ab3784a/error.txt
+#EXTINF:-1 tvg-id="telecine-fun" tvg-name="Telecine Fun" tvg-logo="https://img.faz-o-eli.online/telecinefun.png" group-title="Filmes",Telecine Fun
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinefun.txt
+#EXTINF:-1 tvg-id="telecine-pipoca" tvg-name="Telecine Pipoca" tvg-logo="https://img.faz-o-eli.online/telecinepipoca.png" group-title="Filmes",Telecine Pipoca
+https://dadinhodetapioca.fun/play/telecinepipoca.html
+#EXTINF:-1 tvg-id="telecine-premium" tvg-name="Telecine Premium" tvg-logo="https://img.faz-o-eli.online/telecinepremium.png" group-title="Filmes",Telecine Premium
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/d15913708cbb1a1b4c793fdae700e207/error.txt
+#EXTINF:-1 tvg-id="telecine-touch" tvg-name="Telecine Touch" tvg-logo="https://img.faz-o-eli.online/telecinetouch.png" group-title="Filmes",Telecine Touch
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/698572cdd1d2d86ef342754c4b0563a9/error.txt
+#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://img.faz-o-eli.online/tnt.png" group-title="Filmes",TNT
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/20851ea4a2c137b11559f8bf05922558/error.txt
+#EXTINF:-1 tvg-id="tnt-novelas" tvg-name="TNT Novelas" tvg-logo="https://img.faz-o-eli.online/tntnovelas.png" group-title="Filmes",TNT Novelas
+https://dadinhodetapioca.fun/play/tntnovelas.html
+#EXTINF:-1 tvg-id="tnt-series" tvg-name="TNT Séries" tvg-logo="https://img.faz-o-eli.online/tntseries.png" group-title="Filmes",TNT Séries
+https://dadinhodetapioca.fun/play/tntseries.html
+#EXTINF:-1 tvg-id="tv-classicos" tvg-name="TV Clássicos" group-title="Filmes",TV Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTINF:-1 tvg-id="universal-premiere" tvg-name="Universal Premiere" tvg-logo="https://mondrian.claro.com.br/channels/inverse/universal-premiere.png" group-title="Filmes",Universal Premiere
+http://45.185.11.126:8000/play/a08m/index.m3u8
+#EXTINF:-1 tvg-id="universal-reality" tvg-name="Universal Reality" tvg-logo="https://mondrian.claro.com.br/channels/inverse/universal-reality.png" group-title="Filmes",Universal Reality
+http://64.31.23.207:80/59471019/60849037/518601.m3u8
+#EXTINF:-1 tvg-id="universal-tv" tvg-name="Universal TV" tvg-logo="https://img.faz-o-eli.online/universaltv.png" group-title="Filmes",Universal TV
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/fae476dac633db9f5e93b2da127a04a8/error.txt
+#EXTINF:-1 tvg-id="usa-network" tvg-name="USA Network" tvg-logo="https://mondrian.claro.com.br/channels/inverse/usa.png" group-title="Filmes",USA Network
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/72338.m3u8
+#EXTINF:-1 tvg-id="warner" tvg-name="Warner" tvg-logo="https://img.faz-o-eli.online/warnerchannel.png" group-title="Filmes",Warner
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/c165fa7422aea312451ef202eabfc277/error.txt
+#EXTINF:-1 tvg-id="a-fazenda-18-1" tvg-name="A Fazenda 18 1" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="Esportes",A Fazenda 18 1
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/afazenda.txt
+#EXTINF:-1 tvg-id="a-fazenda-18-2" tvg-name="A Fazenda 18 2" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="Esportes",A Fazenda 18 2
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/afazenda2.txt
+#EXTINF:-1 tvg-id="a-fazenda-18-3" tvg-name="A Fazenda 18 3" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="Esportes",A Fazenda 18 3
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/afazenda3.txt
+#EXTINF:-1 tvg-id="a-fazenda-18-4" tvg-name="A Fazenda 18 4" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="Esportes",A Fazenda 18 4
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/afazenda4.txt
+#EXTINF:-1 tvg-id="a-fazenda-18-5" tvg-name="A Fazenda 18 5" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="Esportes",A Fazenda 18 5
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/afazenda5.txt
+#EXTINF:-1 tvg-id="amazon-prime-video-01" tvg-name="Amazon Prime Video 01" tvg-logo="https://img.faz-o-eli.online/primevideo.png" group-title="Esportes",Amazon Prime Video 01
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/primevideo.txt
+#EXTINF:-1 tvg-id="amazon-prime-video-02" tvg-name="Amazon Prime Video 02" tvg-logo="https://img.faz-o-eli.online/primevideo.png" group-title="Esportes",Amazon Prime Video 02
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/primevideo2.txt
+#EXTINF:-1 tvg-id="amazon-prime-video-03" tvg-name="Amazon Prime Video 03" tvg-logo="http://www.fontedecanais.gs/logos/canais/primevideo.png" group-title="Esportes",Amazon Prime Video 03
+http://64.31.23.207:80/59471019/60849037/3460181.m3u8
+#EXTINF:-1 tvg-id="amazon-prime-video-04" tvg-name="Amazon Prime Video 04" tvg-logo="https://img.faz-o-eli.online/primevideo.png" group-title="Esportes",Amazon Prime Video 04
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/primevideo4.txt
+#EXTINF:-1 tvg-id="andorra-x-malta" tvg-name="Andorra x Malta" group-title="Esportes",Andorra x Malta
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317686.m3u8
+#EXTINF:-1 tvg-id="austria-x-israel" tvg-name="Áustria x Israel" group-title="Esportes",Áustria x Israel
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317691.m3u8
+#EXTINF:-1 tvg-id="band-sports" tvg-name="BAND SPORTS HD" tvg-logo="https://img.faz-o-eli.online/bandsports.png" group-title="Esportes",BAND SPORTS HD
+https://dadinhodetapioca.fun/play/bandsports.html
+#EXTINF:-1 tvg-id="canal-goat-jogo-1" tvg-name="Canal GOAT (Jogo 1)" tvg-logo="http://logos.appscms.xyz/logos/2025/canalgoat.png" group-title="Esportes",Canal GOAT (Jogo 1)
+http://64.31.23.207:80/59471019/60849037/3460243.m3u8
+#EXTINF:-1 tvg-id="canal-goat-jogo-2" tvg-name="Canal GOAT (Jogo 2)" tvg-logo="http://logos.appscms.xyz/logos/2025/canalgoat.png" group-title="Esportes",Canal GOAT (Jogo 2)
+http://64.31.23.207:80/59471019/60849037/3460244.m3u8
+#EXTINF:-1 tvg-id="canal-goat-jogo-3" tvg-name="Canal GOAT (Jogo 3)" tvg-logo="http://logos.appscms.xyz/logos/2025/canalgoat.png" group-title="Esportes",Canal GOAT (Jogo 3)
+http://64.31.23.207:80/59471019/60849037/3460245.m3u8
+#EXTINF:-1 tvg-id="canal-off" tvg-name="Canal OFF" tvg-logo="https://img.faz-o-eli.online/off.png" group-title="Esportes",Canal OFF
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/off.txt
+#EXTINF:-1 tvg-id="cazetv" tvg-name="CazéTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Caz%C3%A9TV_wordmark.svg?width=300" group-title="Esportes",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cazetv-1" tvg-name="CazeTV 1" tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes",CazeTV 1
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/caze1.txt
+#EXTINF:-1 tvg-id="cazetv-2" tvg-name="CazeTV 2" tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes",CazeTV 2
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/caze2.txt
+#EXTINF:-1 tvg-id="cazetv-3" tvg-name="CazeTV 3" tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes",CazeTV 3
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/caze3.txt
+#EXTINF:-1 tvg-id="combate" tvg-name="Combate" tvg-logo="https://img.faz-o-eli.online/combate.png" group-title="Esportes",Combate
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/2efdf4bb8d37d788058cb2f63909e9a5/error.txt
+#EXTINF:-1 tvg-id="dazn-jogo-1" tvg-name="DAZN (Jogo 1)" tvg-logo="http://logos.appscms.xyz/logos/2025/dazn.png" group-title="Esportes",DAZN (Jogo 1)
+http://64.31.23.207:80/59471019/60849037/3460239.m3u8
+#EXTINF:-1 tvg-id="dazn-jogo-4" tvg-name="DAZN (Jogo 4)" tvg-logo="http://logos.appscms.xyz/logos/2025/dazn.png" group-title="Esportes",DAZN (Jogo 4)
+http://64.31.23.207:80/59471019/60849037/3460242.m3u8
+#EXTINF:-1 tvg-id="disney-01" tvg-name="Disney+ 01" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Esportes",Disney+ 01
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169096.m3u8
+#EXTINF:-1 tvg-id="disney-02" tvg-name="Disney+ 02" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Esportes",Disney+ 02
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169098.m3u8
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://img.faz-o-eli.online/espn.png" group-title="Esportes",ESPN
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/3716172ea4bd4d93acdddce3e55bc33f/error.txt
+#EXTINF:-1 tvg-id="espn-2" tvg-name="ESPN 2" tvg-logo="https://img.faz-o-eli.online/espn2.png" group-title="Esportes",ESPN 2
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/71add1104818cc89831db7dfee78b77e/error.txt
+#EXTINF:-1 tvg-id="espn-3" tvg-name="ESPN 3" tvg-logo="https://img.faz-o-eli.online/espn3.png" group-title="Esportes",ESPN 3
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/b6718d0e3c489414763d31a2f5a52c01/error.txt
+#EXTINF:-1 tvg-id="espn-4" tvg-name="ESPN 4" tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Esportes",ESPN 4
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/8838e9b1b31407d53cbc13383beb86f5/error.txt
+#EXTINF:-1 tvg-id="espn-5" tvg-name="ESPN 5" tvg-logo="https://img.faz-o-eli.online/espn5.png" group-title="Esportes",ESPN 5
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/espn5.txt
+#EXTINF:-1 tvg-id="espn-6" tvg-name="ESPN 6" tvg-logo="https://img.faz-o-eli.online/espn6.png" group-title="Esportes",ESPN 6
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/ac334a60225752fe9eb3c354aeb3cbe5/error.txt
+#EXTINF:-1 tvg-id="fcf-tv-1" tvg-name="FCF TV 1" group-title="Esportes",FCF TV 1
+http://332nr7hbfu.xyz:80/live/999913/S3CvUB/247976.m3u8
+#EXTINF:-1 tvg-id="fifa-portugues" tvg-name="FIFA+ Português" group-title="Esportes",FIFA+ Português
+https://c2657533.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="fish-tv" tvg-name="Fish TV" tvg-logo="https://mondrian.claro.com.br/channels/inverse/fish-tv.png" group-title="Esportes",Fish TV
+http://45.162.64.114/FISH_TV/index.m3u8
+#EXTINF:-1 tvg-id="ge-tv" tvg-name="GE TV" tvg-logo="https://mondrian.claro.com.br/channels/inverse/ge-tv.png" group-title="Esportes",GE TV
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="informacoes-em-breve" tvg-name="Informações em Breve" group-title="Esportes",Informações em Breve
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317694.m3u8
+#EXTINF:-1 tvg-id="jogos-de-hoje" tvg-name="JOGOS DE HOJE" group-title="Esportes",JOGOS DE HOJE
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/339310.m3u8
+#EXTINF:-1 tvg-id="kosovo-x-irlanda" tvg-name="Kosovo x Irlanda" group-title="Esportes",Kosovo x Irlanda
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317692.m3u8
+#EXTINF:-1 tvg-id="liechtenstein-x-lituania" tvg-name="Liechtenstein x Lituânia" group-title="Esportes",Liechtenstein x Lituânia
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317693.m3u8
+#EXTINF:-1 tvg-id="n-sports" tvg-name="N SPORTS" tvg-logo="https://mondrian.claro.com.br/channels/inverse/nsports.png" group-title="Esportes",N SPORTS
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
+#EXTINF:-1 tvg-id="n-sports-jogo-1" tvg-name="N Sports (Jogo 1)" tvg-logo="https://img.faz-o-eli.online/nsports.png" group-title="Esportes",N Sports (Jogo 1)
+http://64.31.23.207:80/59471019/60849037/3460254.m3u8
+#EXTINF:-1 tvg-id="nba-01" tvg-name="NBA 01" tvg-logo="http://www.fontedecanais.me/logos/canais/nba.png" group-title="Esportes",NBA 01
+http://64.31.23.207:80/59471019/60849037/514097.m3u8
+#EXTINF:-1 tvg-id="nba-league-pass-1" tvg-name="NBA League Pass 1" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Esportes",NBA League Pass 1
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/140516.m3u8
+#EXTINF:-1 tvg-id="nba-league-pass-2" tvg-name="NBA League Pass 2" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Esportes",NBA League Pass 2
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/140519.m3u8
+#EXTINF:-1 tvg-id="nba-league-pass-3" tvg-name="NBA League Pass 3" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Esportes",NBA League Pass 3
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/140522.m3u8
+#EXTINF:-1 tvg-id="paramount-jogo-1" tvg-name="Paramount+ (Jogo 1)" tvg-logo="https://img.faz-o-eli.online/paramountplus.png" group-title="Esportes",Paramount+ (Jogo 1)
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/paramountplus.txt
+#EXTINF:-1 tvg-id="paramount-jogo-2" tvg-name="Paramount+ (Jogo 2)" tvg-logo="https://www.fontedecanais.gs/logos/canais/paramountplus.png" group-title="Esportes",Paramount+ (Jogo 2)
+http://64.31.23.207:80/59471019/60849037/3460172.m3u8
+#EXTINF:-1 tvg-id="paramount-jogo-3" tvg-name="Paramount+ (Jogo 3)" tvg-logo="https://www.fontedecanais.gs/logos/canais/paramountplus.png" group-title="Esportes",Paramount+ (Jogo 3)
+http://64.31.23.207:80/59471019/60849037/3460173.m3u8
+#EXTINF:-1 tvg-id="paramount-jogo-6" tvg-name="Paramount+ (Jogo 6)" tvg-logo="https://logos.appscms.xyz/logos/2025/Paramount.png" group-title="Esportes",Paramount+ (Jogo 6)
+http://64.31.23.207:80/59471019/60849037/3460278.m3u8
+#EXTINF:-1 tvg-id="portugal-x-pais-de-gales" tvg-name="Portugal x País de Gales" group-title="Esportes",Portugal x País de Gales
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317690.m3u8
+#EXTINF:-1 tvg-id="premiere-2" tvg-name="Premiere 2" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 2
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere2.txt
+#EXTINF:-1 tvg-id="premiere-3" tvg-name="Premiere 3" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 3
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere3.txt
+#EXTINF:-1 tvg-id="premiere-4" tvg-name="Premiere 4" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 4
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere4.txt
+#EXTINF:-1 tvg-id="premiere-5" tvg-name="Premiere 5" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 5
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/d35136cc3ccb4d78f167178a28499fb5/error.txt
+#EXTINF:-1 tvg-id="premiere-6" tvg-name="Premiere 6" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere.png" group-title="Esportes",Premiere 6
+http://64.31.23.207:80/59471019/60849037/3460224.m3u8
+#EXTINF:-1 tvg-id="premiere-7" tvg-name="Premiere 7" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 7
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere7.txt
+#EXTINF:-1 tvg-id="premiere-8" tvg-name="Premiere 8" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere.png" group-title="Esportes",Premiere 8
+http://64.31.23.207:80/59471019/60849037/3460230.m3u8
+#EXTINF:-1 tvg-id="premiere-8-mosaico" tvg-name="PREMIERE 8 MOSAICO" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="Esportes",PREMIERE 8 MOSAICO
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/30063.m3u8
+#EXTINF:-1 tvg-id="premiere-clubes" tvg-name="Premiere Clubes" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere Clubes
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/f5457a071382280ebf3f89fdf3db6a41/error.txt
+#EXTINF:-1 tvg-id="a-bola" tvg-name="PT - A Bola" tvg-logo="https://img.faz-o-eli.online/pt_abola.png" group-title="Esportes",PT - A Bola
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_abola.txt
+#EXTINF:-1 tvg-id="benfica-tv" tvg-name="PT - Benfica TV" tvg-logo="https://img.faz-o-eli.online/pt_benficatv.prev.png" group-title="Esportes",PT - Benfica TV
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_benficatv.txt
+#EXTINF:-1 tvg-id="canal-11" tvg-name="PT - Canal 11" tvg-logo="https://img.faz-o-eli.online/pt_canal11.prev.png" group-title="Esportes",PT - Canal 11
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_canal11.txt
+#EXTINF:-1 tvg-id="eleven-1" tvg-name="PT - Eleven 1" tvg-logo="https://img.faz-o-eli.online/pt_eleven1.prev.png" group-title="Esportes",PT - Eleven 1
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_eleven1.txt
+#EXTINF:-1 tvg-id="eleven-2" tvg-name="PT - Eleven 2" tvg-logo="https://img.faz-o-eli.online/pt_eleven2.prev.png" group-title="Esportes",PT - Eleven 2
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_eleven2.txt
+#EXTINF:-1 tvg-id="eleven-3" tvg-name="PT - Eleven 3" tvg-logo="https://img.faz-o-eli.online/pt_eleven3.prev.png" group-title="Esportes",PT - Eleven 3
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_eleven3.txt
+#EXTINF:-1 tvg-id="sporttv-1" tvg-name="PT - Sporttv 1" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Esportes",PT - Sporttv 1
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv1.txt
+#EXTINF:-1 tvg-id="sporttv-2" tvg-name="PT - Sporttv 2" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Esportes",PT - Sporttv 2
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv2.txt
+#EXTINF:-1 tvg-id="sporttv-3" tvg-name="PT - Sporttv 3" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Esportes",PT - Sporttv 3
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv3.txt
+#EXTINF:-1 tvg-id="sporttv-4" tvg-name="PT - Sporttv 4" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Esportes",PT - Sporttv 4
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv4.txt
+#EXTINF:-1 tvg-id="sporttv-5" tvg-name="PT - Sporttv 5" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Esportes",PT - Sporttv 5
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv5.txt
+#EXTINF:-1 tvg-id="sporttv-6" tvg-name="PT - Sporttv 6" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Esportes",PT - Sporttv 6
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv6.txt
+#EXTINF:-1 tvg-id="sporttv-7" tvg-name="PT - Sporttv 7" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Esportes",PT - Sporttv 7
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv7.txt
+#EXTINF:-1 tvg-id="sportv" tvg-name="SporTV" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Esportes",SporTV
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/ea2ac24132b36ec33c466ddf1e6ebe65/error.txt
+#EXTINF:-1 tvg-id="sportv-2" tvg-name="SporTV 2" tvg-logo="https://img.faz-o-eli.online/sportv2.png" group-title="Esportes",SporTV 2
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/207a5a39bc92262c878f00c9544e28bb/error.txt
+#EXTINF:-1 tvg-id="sportv-3" tvg-name="SporTV 3" tvg-logo="https://img.faz-o-eli.online/sportv3.png" group-title="Esportes",SporTV 3
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/9dd6d458d61b692b36cdf6a11e8bd1b1/error.txt
+#EXTINF:-1 tvg-id="sportv-4" tvg-name="SporTV 4" tvg-logo="https://img.faz-o-eli.online/sportv4.png" group-title="Esportes",SporTV 4
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv4.txt
+#EXTINF:-1 tvg-id="sportynet" tvg-name="SportyNet" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes",SportyNet
+https://dadinhodetapioca.fun/play/sportynet.html
+#EXTINF:-1 tvg-id="sportynet-01" tvg-name="SportyNet 01" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes",SportyNet 01
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportynet.txt
+#EXTINF:-1 tvg-id="sportynet-4" tvg-name="SportyNet 4" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes",SportyNet 4
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/184584.m3u8
+#EXTINF:-1 tvg-id="sportynet-1" tvg-name="SportyNet+ 1" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes",SportyNet+ 1
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportynetplus1.txt
+#EXTINF:-1 tvg-id="sportynet-2" tvg-name="SportyNet+ 2" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes",SportyNet+ 2
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportynetplus2.txt
+#EXTINF:-1 tvg-id="sportynet-3" tvg-name="SportyNet+ 3" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes",SportyNet+ 3
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportynetplus3.txt
+#EXTINF:-1 tvg-id="ufc-fight-pass" tvg-name="UFC Fight Pass" tvg-logo="https://img.faz-o-eli.online/ufcfightpass.png" group-title="Esportes",UFC Fight Pass
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/184046.m3u8
+#EXTINF:-1 tvg-id="ufc-fight-pass-01" tvg-name="UFC Fight Pass 01" tvg-logo="https://img.faz-o-eli.online/ufcfightpass.png" group-title="Esportes",UFC Fight Pass 01
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/ufcfightpass.txt
+#EXTINF:-1 tvg-id="ufc-fight-pass-03" tvg-name="UFC Fight Pass 03" tvg-logo="http://logos.imperioapps.top/UFC_FIGHT_PASS.png" group-title="Esportes",UFC Fight Pass 03
+http://64.31.23.207:80/59471019/60849037/297547.m3u8
+#EXTINF:-1 tvg-id="woohoo" tvg-name="Woohoo" tvg-logo="https://mondrian.claro.com.br/channels/inverse/woohoo.png" group-title="Esportes",Woohoo
+http://45.162.64.114/WOOHOO/index.m3u8
+#EXTINF:-1 tvg-id="x-sports" tvg-name="X Sports" tvg-logo="https://img.faz-o-eli.online/xsports.png" group-title="Esportes",X Sports
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/c4343a8197258edd5f0828bcc9779973/error.txt
+#EXTINF:-1 tvg-id="band-news" tvg-name="Band News" tvg-logo="https://img.faz-o-eli.online/bandnews.png" group-title="Noticias",Band News
+https://dadinhodetapioca.fun/play/bandnews.html
+#EXTINF:-1 tvg-id="canal-uol" tvg-name="Canal UOL" tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg" group-title="Noticias",Canal UOL
+https://video24.mais.uol.com.br/live/6146.m3u8
+#EXTINF:-1 tvg-id="cnbc-brasil" tvg-name="CNBC Brasil" group-title="Noticias",CNBC Brasil
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/295477.m3u8
+#EXTINF:-1 tvg-id="cnn-brasil" tvg-name="CNN Brasil" tvg-logo="https://img.faz-o-eli.online/cnnbrasil.png" group-title="Noticias",CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1920x1080/playlist.m3u8
+#EXTINF:-1 tvg-id="cnn-brasil-money" tvg-name="CNN Brasil Money" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cnn-brasil-money.png" group-title="Noticias",CNN Brasil Money
+https://amg01391-amg01391c57-amgplt0026.playout.now3.amagi.tv/playlist/amg01391-amg01391c57-amgplt0026/playlist.m3u8
+#EXTINF:-1 tvg-id="eurochannel" tvg-name="Eurochannel" group-title="Noticias",Eurochannel
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/104910.m3u8
+#EXTINF:-1 tvg-id="france-24" tvg-name="France 24" tvg-logo="https://mondrian.claro.com.br/channels/inverse/france-24.png" group-title="Noticias",France 24
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/103500.m3u8
+#EXTINF:-1 tvg-id="globonews" tvg-name="GloboNews" tvg-logo="https://img.faz-o-eli.online/globonews.png" group-title="Noticias",GloboNews
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globonews.txt
+#EXTINF:-1 tvg-id="jovem-pan-news" tvg-name="Jovem Pan News" tvg-logo="https://www.tvlogo.org/brazil/jovem-pan-news-br.png" group-title="Noticias",Jovem Pan News
+https://amg01391-sbtinfast-amg01391c3-lg-us-8995.playouts.now.amagi.tv/playlist/amg01391-addigital-jovempan-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="record-news" tvg-name="Record News" tvg-logo="https://mondrian.claro.com.br/channels/inverse/recordnews.png" group-title="Noticias",Record News
+https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="sbt-news" tvg-name="SBT News" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt-news.png" group-title="Noticias",SBT News
+https://sbtnews.maissbt.com/index.m3u8
+#EXTINF:-1 tvg-id="tvideonews" tvg-name="TVideoNews" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="Noticias",TVideoNews
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 tvg-id="anime-channel-tv" tvg-name="Anime Channel TV" group-title="Infantil",Anime Channel TV
+https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="box-kids-tv" tvg-name="Box Kids TV" tvg-logo="https://www.tvlogo.org/brazil/box-kids-tv-br.png" group-title="Infantil",Box Kids TV
+http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png" group-title="Infantil",Cartoon Network
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/a982649ba059eafe2337cf8b65625f06/error.txt
+#EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" tvg-logo="https://img.faz-o-eli.online/cartoonito.png" group-title="Infantil",Cartoonito
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/cartoonito.txt
+#EXTINF:-1 tvg-id="discovery-kids" tvg-name="Discovery Kids" tvg-logo="https://img.faz-o-eli.online/discoverykids.png" group-title="Infantil",Discovery Kids
+https://dadinhodetapioca.fun/play/discoverykids.html
+#EXTINF:-1 tvg-id="dreamworks" tvg-name="DreamWorks" tvg-logo="https://img.faz-o-eli.online/dreamworks.png" group-title="Infantil",DreamWorks
+https://origin-07.nxplay.com.br/DREAMWORKS/index.m3u8
+#EXTINF:-1 tvg-id="dumdum" tvg-name="DumDum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" group-title="Infantil",DumDum
+http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
+#EXTINF:-1 tvg-id="geekdot" tvg-name="Geekdot" group-title="Infantil",Geekdot
+https://stream.ichibansys.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="gloob" tvg-name="Gloob" tvg-logo="https://img.faz-o-eli.online/gloob.png" group-title="Infantil",Gloob
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/gloob.txt
+#EXTINF:-1 tvg-id="gloobinho" tvg-name="Gloobinho" tvg-logo="https://logos.imperioapps.top/GLOBINHO.png" group-title="Infantil",Gloobinho
+http://64.31.23.207:80/59471019/60849037/1882628.m3u8
+#EXTINF:-1 tvg-id="gospel-cartoon" tvg-name="Gospel Cartoon" group-title="Infantil",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="jetsons-tv" tvg-name="Jetsons TV" group-title="Infantil",Jetsons TV
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 tvg-id="kuriakos-kids" tvg-name="Kuriakos Kids" group-title="Infantil",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="loading-tv" tvg-name="Loading TV" group-title="Infantil",Loading TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="nbx-tv-kids" tvg-name="NBX TV Kids" group-title="Infantil",NBX TV Kids
+https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://img.faz-o-eli.online/nickelodeon.png" group-title="Infantil",Nickelodeon
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+#EXTINF:-1 tvg-id="nickonline" tvg-name="NickOnline" tvg-logo="https://x1colegal.com/logo.png" group-title="Infantil",NickOnline
+https://x1colegal.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="nicktoons-brasil" tvg-name="NickToons Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png" group-title="Infantil",NickToons Brasil
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-id="otaku-sign-tv" tvg-name="Otaku Sign TV" group-title="Infantil",Otaku Sign TV
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-criancas" tvg-name="Rede Crianças" group-title="Infantil",Rede Crianças
+https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
+#EXTINF:-1 tvg-id="retro-cartoon" tvg-name="Retrô Cartoon" group-title="Infantil",Retrô Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="sbc-kids" tvg-name="SBC Kids" group-title="Infantil",SBC Kids
+https://video01.brascast.com/rede1220/rede1220/playlist.m3u8
+#EXTINF:-1 tvg-id="tooncast" tvg-name="Tooncast" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tooncast.png" group-title="Infantil",Tooncast
+https://dadinhodetapioca.fun/play/tooncast.html
+#EXTINF:-1 tvg-id="tv-ra-tim-bum" tvg-name="TV Rá Tim Bum" tvg-logo="https://logos.imperioapps.top/TV_RA_TIM_BUM.png" group-title="Infantil",TV Rá Tim Bum
+http://64.31.23.207:80/59471019/60849037/1882634.m3u8
+#EXTINF:-1 tvg-id="zoomoo" tvg-name="Zoomoo" tvg-logo="https://img.faz-o-eli.online/zoomoo.png" group-title="Infantil",Zoomoo
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/178533.m3u8
+#EXTINF:-1 tvg-id="a-e" tvg-name="A&E" tvg-logo="https://img.faz-o-eli.online/ae.png" group-title="Documentarios",A&E
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/ae.txt
+#EXTINF:-1 tvg-id="animal-planet" tvg-name="Animal Planet" tvg-logo="https://img.faz-o-eli.online/animalplanet.png" group-title="Documentarios",Animal Planet
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/1eb9c1d0343af5dfd9bbed74c67f798c/error.txt
+#EXTINF:-1 tvg-id="curta" tvg-name="Curta" tvg-logo="https://img.faz-o-eli.online/curta.png" group-title="Documentarios",Curta
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/71855.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="https://img.faz-o-eli.online/discoverychannel.png" group-title="Documentarios",Discovery Channel
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/127778e85cd08ab05fec04db68ed20d6/error.txt
+#EXTINF:-1 tvg-id="discovery-home-health" tvg-name="Discovery Home & Health" tvg-logo="https://img.faz-o-eli.online/discoveryhh.png" group-title="Documentarios",Discovery Home & Health
+https://dadinhodetapioca.fun/play/discoveryhh.html
+#EXTINF:-1 tvg-id="discovery-id" tvg-name="Discovery ID" tvg-logo="https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png" group-title="Documentarios",Discovery ID
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/d3ab4fe684be2ba18a8680ade6b4b25c/error.txt
+#EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science" tvg-logo="https://img.faz-o-eli.online/discoveryscience.png" group-title="Documentarios",Discovery Science
+https://dadinhodetapioca.fun/play/discoveryscience.html
+#EXTINF:-1 tvg-id="discovery-theater" tvg-name="Discovery Theater" tvg-logo="https://img.faz-o-eli.online/discoverytheater.png" group-title="Documentarios",Discovery Theater
+https://dadinhodetapioca.fun/play/discoverytheater.html
+#EXTINF:-1 tvg-id="discovery-turbo" tvg-name="Discovery Turbo" tvg-logo="https://img.faz-o-eli.online/discoveryturbo.png" group-title="Documentarios",Discovery Turbo
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/discoveryturbo.txt
+#EXTINF:-1 tvg-id="discovery-world" tvg-name="Discovery World" tvg-logo="https://img.faz-o-eli.online/discoveryworld.png" group-title="Documentarios",Discovery World
+https://dadinhodetapioca.fun/play/discoveryworld.html
+#EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="https://img.faz-o-eli.online/history.png" group-title="Documentarios",History
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/f4ee0aad8b8f3a674a20a3e652500ff5/error.txt
+#EXTINF:-1 tvg-id="history-2" tvg-name="History 2" tvg-logo="https://img.faz-o-eli.online/history2.png" group-title="Documentarios",History 2
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/e8896a70e4ebf34a094717dd81017502/error.txt
+#EXTINF:-1 tvg-id="a-fazenda-18-mosaico" tvg-name="A FAZENDA 18 MOSAICO" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="Entretenimento",A FAZENDA 18 MOSAICO
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/2470067.m3u8
+#EXTINF:-1 tvg-id="a-fazenda-cam-1" tvg-name="A Fazenda Cam 1" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="Entretenimento",A Fazenda Cam 1
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/397317.m3u8
+#EXTINF:-1 tvg-id="a-fazenda-cam-2" tvg-name="A Fazenda Cam 2" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="Entretenimento",A Fazenda Cam 2
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/397320.m3u8
+#EXTINF:-1 tvg-id="a-fazenda-cam-3" tvg-name="A Fazenda Cam 3" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="Entretenimento",A Fazenda Cam 3
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/397321.m3u8
+#EXTINF:-1 tvg-id="a-fazenda-cam-4" tvg-name="A Fazenda Cam 4" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="Entretenimento",A Fazenda Cam 4
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/397322.m3u8
+#EXTINF:-1 tvg-id="a-fazenda-cam-5" tvg-name="A Fazenda Cam 5" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="Entretenimento",A Fazenda Cam 5
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/397323.m3u8
+#EXTINF:-1 tvg-id="a-fazenda-cam-6" tvg-name="A Fazenda Cam 6" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="Entretenimento",A Fazenda Cam 6
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/397324.m3u8
+#EXTINF:-1 tvg-id="adult-swim" tvg-name="Adult Swim" tvg-logo="https://img.faz-o-eli.online/adultswim.png" group-title="Entretenimento",Adult Swim
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/fa86d0bc31695eeeb8c20d8f003cca1c/error.txt
+#EXTINF:-1 tvg-id="agro-mais" tvg-name="Agro Mais" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/agro-mais-br.png" group-title="Entretenimento",Agro Mais
+http://45.162.64.114/AGROMAIS/index.m3u8
+#EXTINF:-1 tvg-id="arte-1" tvg-name="Arte 1" tvg-logo="https://mondrian.claro.com.br/channels/inverse/arte1.png" group-title="Entretenimento",Arte 1
+http://45.162.64.114/ARTE1/index.m3u8
+#EXTINF:-1 tvg-id="bis" tvg-name="BIS" tvg-logo="http://www.fontedecanais.me/logos/canais/bis.png" group-title="Entretenimento",BIS
+http://64.31.23.207:80/59471019/60849037/518551.m3u8
+#EXTINF:-1 tvg-id="blits-tv" tvg-name="Blits TV" tvg-logo="https://i.imgur.com/FO4QTRf.jpeg" group-title="Entretenimento",Blits TV
+https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
+#EXTINF:-1 tvg-id="brasileirao-serie-a" tvg-name="Brasileirao Serie A" group-title="Entretenimento",Brasileirao Serie A
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317063.m3u8
+#EXTINF:-1 tvg-id="canal-agro" tvg-name="Canal Agro" group-title="Entretenimento",Canal Agro
+https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
+#EXTINF:-1 tvg-id="canal-do-boi" tvg-name="Canal do Boi" tvg-logo="https://i.imgur.com/pVM5MhS.png" group-title="Entretenimento",Canal do Boi
+http://45.162.64.114/CANAL_DO_BOI/index.m3u8
+#EXTINF:-1 tvg-id="canal-rural" tvg-name="Canal Rural" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/canal-rural-br.png" group-title="Entretenimento",Canal Rural
+http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+#EXTINF:-1 tvg-id="chef-tv" tvg-name="Chef TV" tvg-logo="https://i.imgur.com/UYksTee.png" group-title="Entretenimento",Chef TV
+http://168.197.104.22/CHEF_TV/index.m3u8
+#EXTINF:-1 tvg-id="com-brasil" tvg-name="Com Brasil" tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="Entretenimento",Com Brasil
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-id="dog-tv" tvg-name="DOG TV" tvg-logo="https://mondrian.claro.com.br/channels/inverse/dog-tv.png" group-title="Entretenimento",DOG TV
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/178517.m3u8
+#EXTINF:-1 tvg-id="e" tvg-name="E!" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/E%21_Logo_Flat_2012.svg?width=300" group-title="Entretenimento",E!
+https://video49.mais.uol.com.br/live/4503.mpd
+#EXTINF:-1 tvg-id="fashiontv" tvg-name="FashionTV" tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Entretenimento",FashionTV
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/103503.m3u8
+#EXTINF:-1 tvg-id="food-network" tvg-name="Food Network" tvg-logo="https://img.faz-o-eli.online/foodnetwork.png" group-title="Entretenimento",Food Network
+https://dadinhodetapioca.fun/play/foodnetwork.html
+#EXTINF:-1 tvg-id="gnt" tvg-name="GNT" tvg-logo="https://img.faz-o-eli.online/gnt.png" group-title="Entretenimento",GNT
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/gnt.txt
+#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://img.faz-o-eli.online/hgtv.png" group-title="Entretenimento",HGTV
+https://dadinhodetapioca.fun/play/hgtv.html
+#EXTINF:-1 tvg-id="impd" tvg-name="IMPD" tvg-logo="https://d5pgibznjcs0s.cloudfront.net/46d92cf6-4807-45c6-9bfd-b38f80288c86/en/images/logo_full.png" group-title="Entretenimento",IMPD
+https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w1464410885_b2691072.m3u8
+#EXTINF:-1 tvg-id="kpoptv-play" tvg-name="KpopTV Play" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="Entretenimento",KpopTV Play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+#EXTINF:-1 tvg-id="markket" tvg-name="Markket" tvg-logo="https://mondrian.claro.com.br/channels/inverse/markket.png" group-title="Entretenimento",Markket
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/164026.m3u8
+#EXTINF:-1 tvg-id="modo-viagem" tvg-name="Modo Viagem" tvg-logo="http://www.fontedecanais.me/logos/canais/modoviagem.png" group-title="Entretenimento",Modo Viagem
+http://64.31.23.207:80/59471019/60849037/518575.m3u8
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-logo="https://img.faz-o-eli.online/mtv.png" group-title="Entretenimento",MTV
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/mtv.txt
+#EXTINF:-1 tvg-id="multishow" tvg-name="Multishow" tvg-logo="https://img.faz-o-eli.online/multishow.png" group-title="Entretenimento",Multishow
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/ca2e3cb72df24612d562f7a4d54176f0/error.txt
+#EXTINF:-1 tvg-id="music-box-brazil" tvg-name="Music Box Brazil" tvg-logo="https://img.faz-o-eli.online/musicboxbrazil.png" group-title="Entretenimento",Music Box Brazil
+http://168.197.104.22/MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="paramount-4" tvg-name="Paramount + 4" tvg-logo="https://vipcanais.net/images/paramountplus.png" group-title="Entretenimento",Paramount + 4
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/103521.m3u8
+#EXTINF:-1 tvg-id="prime-box-brazil" tvg-name="Prime Box Brazil" tvg-logo="https://img.faz-o-eli.online/primeboxbrazil.png" group-title="Entretenimento",Prime Box Brazil
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/103476.m3u8
+#EXTINF:-1 tvg-id="rede-gospel" tvg-name="Rede Gospel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-gospel-br.png" group-title="Entretenimento",Rede Gospel
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="rit" tvg-name="RIT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rit-br.png" group-title="Entretenimento",RIT
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-id="sabor-arte" tvg-name="Sabor & Arte" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sabor-e-arte.png" group-title="Entretenimento",Sabor & Arte
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/112017.m3u8
+#EXTINF:-1 tvg-id="terra-viva" tvg-name="Terra Viva" tvg-logo="https://www.tvlogo.org/brazil/terraviva-br.png" group-title="Entretenimento",Terra Viva
+https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://img.faz-o-eli.online/tlc.png" group-title="Entretenimento",TLC
+https://dadinhodetapioca.fun/play/tlc.html
+#EXTINF:-1 tvg-id="trace-brazuca" tvg-name="Trace Brazuca" tvg-logo="https://mondrian.claro.com.br/channels/inverse/trace-brazuca.png" group-title="Entretenimento",Trace Brazuca
+https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="travel-box-brazil" tvg-name="Travel Box Brazil" tvg-logo="https://i.imgur.com/3tBJERH.png" group-title="Entretenimento",Travel Box Brazil
+http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="tv-evangelizar" tvg-name="TV Evangelizar" tvg-logo="https://i.imgur.com/IrYR7Kp.png" group-title="Entretenimento",TV Evangelizar
+http://45.162.64.114/EVANGELIZAR/index.m3u8
+#EXTINF:-1 tvg-id="tv-novo-tempo" tvg-name="TV Novo Tempo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/novo-tempo-br.png" group-title="Entretenimento",TV Novo Tempo
+https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-pai-eterno" tvg-name="TV Pai Eterno" tvg-logo="https://img.faz-o-eli.online/tvpaieterno.png" group-title="Entretenimento",TV Pai Eterno
+https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+#EXTINF:-1 tvg-id="101-dalmatas" tvg-name="101 Dalmatas" tvg-logo="http://24horas.cc:80/images/9c6a2f33abeeef86c653c2cfb53e30b3.jpg" group-title="24 Horas",101 Dalmatas
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/137614.m3u8
+#EXTINF:-1 tvg-id="24h-chaves" tvg-name="24H Chaves" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24 Horas",24H Chaves
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_chaves.txt
+#EXTINF:-1 tvg-id="24h-dragon-ball-z" tvg-name="24H Dragon Ball Z" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24 Horas",24H Dragon Ball Z
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_dragonball.txt
+#EXTINF:-1 tvg-id="24h-friends" tvg-name="24H Friends" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24 Horas",24H Friends
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_friends.txt
+#EXTINF:-1 tvg-id="24h-naruto-classico" tvg-name="24H Naruto Clássico" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24 Horas",24H Naruto Clássico
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_naruto.txt
+#EXTINF:-1 tvg-id="24h-os-simpsons" tvg-name="24H Os Simpsons" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24 Horas",24H Os Simpsons
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/997cce902d6abfb4633575ba9ffc6c86/error.txt
+#EXTINF:-1 tvg-id="24h-os-smurfs" tvg-name="24H Os Smurfs" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24 Horas",24H Os Smurfs
+https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8
+#EXTINF:-1 tvg-id="24h-pica-pau" tvg-name="24H Pica Pau" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24 Horas",24H Pica Pau
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_picapau.txt
+#EXTINF:-1 tvg-id="24h-todo-mundo-odeia-o-cris" tvg-name="24H Todo Mundo Odeia o Cris" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24 Horas",24H Todo Mundo Odeia o Cris
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_odeiachris.txt
+#EXTINF:-1 tvg-id="a-beleza-secreta-dos-animais" tvg-name="A Beleza Secreta dos Animais" tvg-logo="http://24horas.cc:80/images/841daa83c5587e962d6922d8d873a7e3.jpg" group-title="24 Horas",A Beleza Secreta dos Animais
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138011.m3u8
+#EXTINF:-1 tvg-id="aeroporto-area-restrita" tvg-name="AEROPORTO AREA RESTRITA" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24 Horas",AEROPORTO AREA RESTRITA
+http://64.31.23.207:80/59471019/60849037/2945300.m3u8
+#EXTINF:-1 tvg-id="aladdin" tvg-name="Aladdin" tvg-logo="http://24horas.cc:80/images/07b77f17e21144dcbd7933ee82820906.jpg" group-title="24 Horas",Aladdin
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138730.m3u8
+#EXTINF:-1 tvg-id="as-aventuras-do-gato-de-botas" tvg-name="As Aventuras do Gato de Botas" tvg-logo="http://24horas.cc:80/images/10eb05c9613316dfb3cb1a39efdf13e0.jpg" group-title="24 Horas",As Aventuras do Gato de Botas
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/140528.m3u8
+#EXTINF:-1 tvg-id="bob-esponja-calca-quadrada" tvg-name="Bob Esponja Calça Quadrada" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="24 Horas",Bob Esponja Calça Quadrada
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138065.m3u8
+#EXTINF:-1 tvg-id="cameras-escondidas-silvio-santos" tvg-name="Cameras Escondidas Silvio Santos" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24 Horas",Cameras Escondidas Silvio Santos
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/152014.m3u8
+#EXTINF:-1 tvg-id="carros-irado" tvg-name="Carros Irado" tvg-logo="http://24horas.cc:80/images/2dd914ca34a6a1ad2bdbb727f3e51140.jpg" group-title="24 Horas",Carros Irado
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/255224.m3u8
+#EXTINF:-1 tvg-id="caverna-do-dragao" tvg-name="Caverna do Dragao" tvg-logo="http://24horas.cc:80/images/7ba1bfdb706316720d0ba2bafbfd7347.jpg" group-title="24 Horas",Caverna do Dragao
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135454.m3u8
+#EXTINF:-1 tvg-id="chapolin" tvg-name="CHAPOLIN" tvg-logo="http://24horas.cc:80/images/77e8debc90dbfd7e69d9decf09b9e05e.jpg" group-title="24 Horas",CHAPOLIN
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169216.m3u8
+#EXTINF:-1 tvg-id="chapolin-colorado" tvg-name="Chapolin Colorado" tvg-logo="http://24horas.cc:80/images/77e8debc90dbfd7e69d9decf09b9e05e.jpg" group-title="24 Horas",Chapolin Colorado
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138000.m3u8
+#EXTINF:-1 tvg-id="dois-homens-e-meio" tvg-name="Dois Homens e Meio" tvg-logo="http://24horas.cc:80/images/66a6edec30215e33b34d9a1a1fd25393.jpg" group-title="24 Horas",Dois Homens e Meio
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/137623.m3u8
+#EXTINF:-1 tvg-id="dora-aventureira" tvg-name="Dora Aventureira" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j30WV7vDXXorlbdKEHgl74stDml.jpg" group-title="24 Horas",Dora Aventureira
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/151949.m3u8
+#EXTINF:-1 tvg-id="dragon-ball-super-saga-deus-da-destruicao-bills" tvg-name="Dragon Ball Super - Saga Deus da Destruicao Bills" tvg-logo="http://24horas.cc:80/images/626e71bf1e9d0b71d194c9359413ced6.jpg" group-title="24 Horas",Dragon Ball Super - Saga Deus da Destruicao Bills
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135484.m3u8
+#EXTINF:-1 tvg-id="dragon-ball-super-trunks-do-futuro" tvg-name="Dragon Ball Super - Trunks do Futuro" tvg-logo="http://24horas.cc:80/images/626e71bf1e9d0b71d194c9359413ced6.jpg" group-title="24 Horas",Dragon Ball Super - Trunks do Futuro
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135487.m3u8
+#EXTINF:-1 tvg-id="escolinha-do-professor-raimundo" tvg-name="Escolinha do Professor Raimundo" tvg-logo="http://24horas.cc:80/images/151df67d8d15f1c0c39c7779f27935b6.jpg" group-title="24 Horas",Escolinha do Professor Raimundo
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/137611.m3u8
+#EXTINF:-1 tvg-id="eu-a-patroa-e-as-criancas" tvg-name="Eu a Patroa e as Criancas" tvg-logo="http://24horas.cc:80/images/f8d46ebce886f39998603845cd3fc331.jpg" group-title="24 Horas",Eu a Patroa e as Criancas
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138020.m3u8
+#EXTINF:-1 tvg-id="filhinho-da-mamae" tvg-name="FILHINHO DA MAMAE" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24 Horas",FILHINHO DA MAMAE
+http://64.31.23.207:80/59471019/60849037/2945301.m3u8
+#EXTINF:-1 tvg-id="game-shakers" tvg-name="Game Shakers" tvg-logo="http://24horas.cc:80/images/e1b30a8cf50dbe4b7da802f634c686b3.jpg" group-title="24 Horas",Game Shakers
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138007.m3u8
+#EXTINF:-1 tvg-id="gladiadores-da-natureza" tvg-name="Gladiadores da Natureza" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24 Horas",Gladiadores da Natureza
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/371456.m3u8
+#EXTINF:-1 tvg-id="he-man-e-os-defensores-do-universo" tvg-name="He Man e Os Defensores do Universo" tvg-logo="http://24horas.cc:80/images/66c305ee7bff6c27854be94434b46c7e.jpg" group-title="24 Horas",He Man e Os Defensores do Universo
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135514.m3u8
+#EXTINF:-1 tvg-id="largados-e-pelados" tvg-name="Largados e Pelados" tvg-logo="http://24horas.cc:80/images/2246772d199347c5251faaac1a270575.jpg" group-title="24 Horas",Largados e Pelados
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/145928.m3u8
+#EXTINF:-1 tvg-id="masterchef" tvg-name="MasterChef" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG_1785430539950.png" group-title="24 Horas",MasterChef
+https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/cb543d167c6c618784cb3760cef342a0f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7352db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad969a1af1c56953145f59647c0dd4ebdd4d20883448e7fa7099c93a68ace42d381c77efc02b036510f7a2fc98528cbfbb5d7b0eb01b321c2493c7c77d4e1f5dc5c3d9c4e4f2e8095a98c448fdd4a1447fb0d04b4158c47c411876eb800a4e034d1c52c03f0204bcef7f8a228e0d5a19ff73a71c90e6a7e5bbc011eaac66e1174c86298122a2d9cf28173eea645c7e673d5e62e7559b158362bb90a43b810f4f8fc9ba8aec6bf9d083f4209079454a19b22e828d24798cf062d5377e3ccf048e989c3573c6e4ec9d5108453538ed28587d019288a4e2f1ab930970b5e2cfb3d622ab176b9826a38c0662b952531fe6f308269f5ac63a0f48cab556df596ec6acb42c3f94adeff09ac2d1b5c01b8fd651f66446fdfe36342612c930bb49d9aaf274933edf1ccecc91c6d546e59015acbc7e377d4df957953468f03683006657dfc33df67db0f5e136e984ea1cb2740c5577163b6dd703733419fcba38e94d9cc50c716fec6fe2b20285665a9496b036ad4b3cd14bd0f42707e52971c262499024949fe9ad9effad13a9b7c05109ca8a6054b0f3f8d3f8d662d6d5d57dc5c82626e/145/1920x1080_6046040/index.m3u8
+#EXTINF:-1 tvg-id="mestres-da-sobrevivencia" tvg-name="Mestres da Sobrevivencia" tvg-logo="http://24horas.cc:80/images/401f441af8a5f5b0211c085d1d755d95.jpg" group-title="24 Horas",Mestres da Sobrevivencia
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/137129.m3u8
+#EXTINF:-1 tvg-id="nicky-ricky-dicky-e-dawn" tvg-name="Nicky Ricky Dicky e Dawn" tvg-logo="http://24horas.cc:80/images/fa42fec0efcb2f9a242913cad45ccba8.jpg" group-title="24 Horas",Nicky Ricky Dicky e Dawn
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/145939.m3u8
+#EXTINF:-1 tvg-id="um-maluco-no-pedaco" tvg-name="Um Maluco no Pedaco" tvg-logo="http://24horas.cc:80/images/3e3d6036a0a8a0f316aff080eca66868.jpg" group-title="24 Horas",Um Maluco no Pedaco
+http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135445.m3u8
+#EXTINF:-1 tvg-id="now-rock" tvg-name="Now Rock" group-title="Músicas",Now Rock
+https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="retro-music" tvg-name="Retro Music" group-title="Músicas",Retro Music
+https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="top-tv" tvg-name="Top TV" group-title="Músicas",Top TV
+https://isaocorp.cloudecast.com/toptv/index.m3u8
+#EXTINF:-1 tvg-id="trace-urban" tvg-name="Trace Urban" group-title="Músicas",Trace Urban
+https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
